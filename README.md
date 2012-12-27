@@ -1,4 +1,4 @@
-sublimetext_preferences
+SublimeText Preferences
 =======================
 
-SublimeText preferences file
+SublimeText preferences file with my personal settings.
