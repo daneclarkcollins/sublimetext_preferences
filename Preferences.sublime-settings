@@ -1,9 +1,13 @@
 {
-  "alignment_chars": ["=", ":"],
+	"alignment_chars": ["=", ":"],
 	"alignment_space_chars": ["=", ":"],
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
 	"detect_slow_plugins": false,
-	"font_size": 11.0,
+	//"font_face": "Droid Sans",
+	"font_face": "DejaVu Sans",
+	//"font_face": "inconsolata-dz",
+	//"font_face": "Consolas",
+	"font_size": 11,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -14,5 +18,9 @@
 	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"word_wrap": true,
-	"draw_white_space": "all"
+	"draw_white_space": "all",
+	"rulers":
+	[
+		100
+	]
 }
