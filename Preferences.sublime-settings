@@ -1,22 +1,27 @@
 {
-	"alignment_chars": ["=", ":"],
-	"alignment_space_chars": ["=", ":"],
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"alignment_chars":
+	[
+		"=",
+		":"
+	],
+	"alignment_space_chars":
+	[
+		"=",
+		":"
+	],
+	"color_scheme": "Packages/Base16 Color Schemes/base16-tomorrow.dark.tmTheme",
 	"detect_slow_plugins": false,
-	//"font_face": "Droid Sans",
-	"font_face": "DejaVu Sans",
-	//"font_face": "inconsolata-dz",
-	//"font_face": "Consolas",
-	"font_size": 11,
+	"draw_white_space": "all",
+	"font_face": "Inconsolata-dz",
+	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modiavfied_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"tab_size": 4,
-	"theme": "Soda Dark.sublime-theme",
+	"tab_size": 2,
+	"theme": "SoDaReloaded.sublime-theme",
 	"translate_tabs_to_spaces": false,
-	"word_wrap": true,
-	"draw_white_space": "all",
+	"word_wrap": true
 }
